@@ -18,3 +18,7 @@ for details go [here](https://github.com/sighthough/LLM-TRAINING-ENGINE-sighthou
 
 
 stress test explained [here](https://github.com/sighthough/LLM-TRAINING-ENGINE-sighthough/blob/main/stress_test_explanation.md)
+
+
+
+the estimated differences between this training method and the default one [here](https://github.com/sighthough/LLM-TRAINING-ENGINE-sighthough/blob/main/dynamic_vs_traditional_training_comparison_report.md)
