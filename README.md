@@ -5,8 +5,7 @@ This is an llm training engine that makes an llm learn things by adding neurons 
 
 👉 **[CLICK HERE TO RUN THE LIVE BENCHMARK](https://sighthough.github.io/LLM-TRAINING-ENGINE-sighthough/)**
 
-feel free to rip anything you need from the index.html its this ^^
-also provided a version with annotations [here](https://github.com/sighthough/LLM-TRAINING-ENGINE-sighthough/blob/main/neural_training_benchmark%20with%20annotations%20for%20devs.html)
+feel free to rip anything you need from the index.html its this ^^ provided a version with annotations [here](https://github.com/sighthough/LLM-TRAINING-ENGINE-sighthough/blob/main/index.html)
 
 
 
